@@ -1,0 +1,2 @@
+var notify_success=function(title) {new PNotify({title: title, type: 'success', hide: true, styling: 'bootstrap3'});};
+var notify_error=function(title) {new PNotify({title: title, type: 'error', hide: true, styling: 'bootstrap3'});};
